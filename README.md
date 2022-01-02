@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gulerhan
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning JS, HTML5, CSS3 and OOP with js
-- 💞️ I’m looking to job that improve myself
+- 💞️ I’m working gonder.com.tr
 - 📫 gulerhan6@gmail.com
 
 <!---
